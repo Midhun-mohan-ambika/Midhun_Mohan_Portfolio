@@ -1,7 +1,7 @@
 const Services_Data = [
     {
         s_no:"01",
-        s_name:"Web design",
+        s_name:"Web development",
         s_desc:"User-friendly design & easy to use websites"
     },
     {

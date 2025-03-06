@@ -68,7 +68,7 @@
 }
 @media(max-width:768px){
     .footer{
-        margin: 50px 70px;
+        margin: 50px 20px;
     }
     .footer-top{
         flex-direction: column;
@@ -78,5 +78,13 @@
         display: flex;
         flex-direction: column-reverse;
         margin-bottom: 50px;
+        font-size: 11px;
     }
+    .footer-top-right{
+        display: none;
+    }
+    .footer-top-left h2{
+        font-size: 30px;
+    }
+    
 }
