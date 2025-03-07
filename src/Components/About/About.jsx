@@ -17,7 +17,7 @@ const About = () => {
                 <div className="about-right">
                     <div className="about-para">
                         <p>I am a Full Stack devoleper, Videographer, Video editor, Graphic designer & Social media manger</p>
-                        <p>My goal is to provide user-friendly websites with modern touches giving its own personality, Also with my photography & videography skills,you don't have to search for royality free items😎</p>
+                        <p>My goal is to provide user-friendly websites with modern touches giving its own personality😎</p>
                     </div>
                     <div className="about-skills">
                         <div className="about-skill"><p>Full Stack</p><hr style={{ width: "70%" }} /></div>
